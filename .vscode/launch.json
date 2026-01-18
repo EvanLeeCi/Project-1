@@ -1,0 +1,55 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Project1Main",
+            "request": "launch",
+            "mainClass": "Project1Main",
+            "projectName": "Project-1_44a83ed6"
+        },
+        {
+            "type": "java",
+            "name": "Project1Main",
+            "request": "launch",
+            "mainClass": "Project1Main",
+            "projectName": "Project 1 GameOfLife_fa48671b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Java Program",
+            "request": "launch",
+            "mainClass": ""
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "PollMain",
+            "request": "launch",
+            "mainClass": "PollMain",
+            "projectName": "Project 1 GameOfLife_58077cb6"
+        },
+        {
+            "type": "java",
+            "name": "Project1Main",
+            "request": "launch",
+            "mainClass": "Project1Main",
+            "projectName": "Project 1 GameOfLife_58077cb6"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "Project 1 GameOfLife_58077cb6"
+        }
+    ]
+}
